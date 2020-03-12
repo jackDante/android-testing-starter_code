@@ -7,10 +7,10 @@ Introduction
 ------------
 This codelab covered:
 
-1.How to run tests from Android Studio.
-1.The difference between local (test) and instrumentation tests (androidTest).
-1.How to write local unit tests using JUnit and Hamcrest.
-1.Setting up ViewModel tests with the AndroidX Test Library.
+1. How to run tests from Android Studio.
+1. The difference between local (test) and instrumentation tests (androidTest).
+1. How to write local unit tests using JUnit and Hamcrest.
+1. Setting up ViewModel tests with the AndroidX Test Library.
 
 ![App main screen, screenshot](screenshot.png)
 
